@@ -12,11 +12,8 @@ An immersive web-based 3D visualization tool that transforms real-time color dat
 - Used Three.js to render 3D scenes and integrate WebXR for VR/MR support
 
 - Wrote custom GLSL shaders to:
-
  - Sample color data from a video texture
-
  - Convert RGB to XYZ, xyY, and LAB color spaces
-
  - Render color points as particles with realistic depth and point sizing
 
 - Designed different shaders for both main color cloud and its corresponding "shadow" projection
