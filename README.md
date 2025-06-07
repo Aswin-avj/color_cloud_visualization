@@ -1,4 +1,4 @@
-# color_cloud_visualization
+# Color Cloud Visualization in VR
 ## What
 An immersive web-based 3D visualization tool that transforms real-time color data from a video into dynamic point clouds in multiple color spaces: RGB, CIEXYZ, CIExyY, and CIELAB. The application allows users to:
 
